@@ -1,4 +1,4 @@
-# ESP32 BLE HID Keyboard – RFID + Scale Integration
+# ESP32 BLE HID Keyboard + RFID + Scale Integration
 
 Firmware for ESP32 DevKit v1 acting as a wireless BLE HID keyboard.  
 Reads RFID card UIDs (MFRC522) and weight measurements (CAS scale via UART) and sends them as keystrokes to any connected host (PC, tablet, POS terminal).
