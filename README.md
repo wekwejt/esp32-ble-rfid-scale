@@ -15,7 +15,7 @@ Automated data entry in industrial/warehouse environments – scanning an RFID c
 
 | Component | Interface | Pins |
 |---|---|---|
-| ESP32 DevKit v1 | – | – |
+| ESP32 C3 | – | – |
 | MFRC522 RFID Reader | SPI (VSPI) | SCK=18, MISO=19, MOSI=23, SS=5, RST=22 |
 | CAS Scale | UART2 | RX=16, TX=17, 9600 baud |
 | Status LED | GPIO | 2 (built-in) |
