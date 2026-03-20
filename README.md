@@ -96,4 +96,4 @@ BLE → 1.250kg
 
 Personal and educational use permitted.  
 Commercial use, resale or integration into commercial products requires written permission from the author.  
-Contact: krzysztof@wekwejt.com
+Contact: ladybit.pl
